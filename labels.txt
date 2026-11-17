@@ -1,0 +1,4 @@
+0 Pineapple
+1 Bird
+2 Tree
+3 Person
